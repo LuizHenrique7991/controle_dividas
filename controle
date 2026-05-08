@@ -141,3 +141,5 @@ elif menu == "Simulador":
         st.info("Cadastre dívidas para usar o simulador.")
 
 st.caption("App de Controle de Dívidas - Versão 1.0")
+
+streamlit run controle_dividas.py
